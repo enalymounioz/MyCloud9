@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lavender_light">#E7E6F7</color>
+    <color name="periwinkle_light">#C6D2ED</color>
+    <color name="chatelle_light">#AEA3B0</color>
+    <color name="prim_light">#E3D0D8</color>
+    <color name="old_lavender_light">#827081</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+   <!-- #E7E6F7 #E3D0D8 #AEA3B0 #827081 #C6D2ED -->
+</resources>
